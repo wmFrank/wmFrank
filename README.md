@@ -3,7 +3,6 @@
 ### 👀 Latest Me
 
 - 🔭 I'm currently a graduate CS student at USC Viterbi. 
-
 - 🌱 I'm currently working on the high throughput asynchronous reinforcement learning library: [Sample Factory](https://github.com/alex-petrenko/sample-factory).
 
 ### :mortar_board: Education
