@@ -2,12 +2,12 @@
 
 ### 👀 Latest Me
 
-- 🔭 I'm currently a graduate CS student at USC Viterbi. 
-- 🌱 I'm currently working on the high throughput asynchronous reinforcement learning library: [Sample Factory](https://github.com/alex-petrenko/sample-factory).
+- I'm currently a graduate CS student at USC Viterbi. 
+- I'm currently working on the high throughput asynchronous reinforcement learning library: [Sample Factory](https://github.com/alex-petrenko/sample-factory).
 
 ### :mortar_board: Education
-- MSCS @ University of Southern California `Aug. 2021 - May 2023`
-- BSCS @ Nanjing University `Sept. 2016 - June 2020`
+- MSCS @ University of Southern California `Aug. 2021 - May 2023` `@ Los Angeles, California, United States`
+- BSCS @ Nanjing University `Sept. 2016 - June 2020` `@ Nanjing, Jiangsu, China`
 
 ### ⚡ Interests
 - Deep Learning
