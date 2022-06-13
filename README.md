@@ -14,8 +14,10 @@
 - Deep Learning
 - Data Science
 
+<!--
 ### 🛠️ Ming's Skills
 - [Click here!](https://github.com/wmFrank/Mings-Skills) 😎
+-->
 
 ### 📫 Contact
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwang283@usc.edu)
