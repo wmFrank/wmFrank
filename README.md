@@ -3,16 +3,11 @@
 ### 👀 Latest Me
 
 - I'm currently a graduate CS student at [USC Viterbi](https://viterbischool.usc.edu/). 
-- I'm currently a research intern at [Hugging Face](https://huggingface.co/).
+- I'm currently a machine learning engineer intern at [Hugging Face](https://huggingface.co/).
 - I'm currently working on the high throughput asynchronous reinforcement learning library: [Sample Factory](https://github.com/alex-petrenko/sample-factory).
 
-### :mortar_board: Education
-- MSCS @ University of Southern California `Aug. 2021 - May 2023` `@ Los Angeles, California, United States`
-- BSCS @ Nanjing University `Sept. 2016 - June 2020` `@ Nanjing, Jiangsu, China`
-
-### ⚡ Interests
-- Deep Learning
-- Data Science
+### ⚡ Personal Website
+- https://mingwang.me/
 
 <!--
 ### 🛠️ Ming's Skills
