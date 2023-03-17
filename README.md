@@ -3,8 +3,6 @@
 ### 👀 Latest Me
 
 - I'm currently a graduate CS student at [USC Viterbi](https://viterbischool.usc.edu/). 
-- I'm currently a machine learning engineer intern at [Hugging Face](https://huggingface.co/).
-- I'm currently working on the high throughput asynchronous reinforcement learning library: [Sample Factory](https://github.com/alex-petrenko/sample-factory).
 
 ### ⚡ Personal Website
 - https://mingwang.me/
